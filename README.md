@@ -1,1 +1,1 @@
-# test
+pip install line-bot-sdk
